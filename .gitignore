@@ -1,0 +1,13 @@
+/node_modules
+npm-debug.log
+.DS_Store
+/log
+/dist
+/applogs
+/applogs-dev
+.env
+*.env
+config.env
+*.log
+*.pdf
+/uploads
